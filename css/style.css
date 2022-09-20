@@ -74,7 +74,7 @@ a {
   color: var(--green);
 }
 
-/*Hero section styles*/
+/*Hero section*/
 .hero {
   height: 70%;
   background: url("../images/bg-coding-mb.jpg"),linear-gradient(rgba(51, 59, 80,0.99),rgba(51, 59, 80,0.99));

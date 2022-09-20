@@ -2,7 +2,7 @@
 ## Project Description
 My portfolio website showcasing my professional skills and projects to potential clients and employers.
 ## Author
-Catherine Vuthi
+Catherine Esther Vuthi
 ## Technologies Used
 HTML, 
 CSS, 
